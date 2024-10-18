@@ -1,3 +1,2 @@
-This is a project to showcase my Digital Resume as well as my skills with HTML and CSS.
+https://roadmap.sh/projects/single-page-cv
 
-Resume links are here - "https://techtanmoyb.github.io/Tanmoy-Biswas_Resume/".
