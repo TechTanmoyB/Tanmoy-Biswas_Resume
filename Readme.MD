@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv/solutions?u=665031dcd6b907c7f7905c87
 
-=======
-https://github.com/TechTanmoyB/Tanmoy-Biswas_Resume
->>>>>>> c4b39230fb7c90b82cf2cfc5368c6988d7be27d8
+Deployed Link - https://techtanmoyb.github.io/Tanmoy-Biswas_Resume/
